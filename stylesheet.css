@@ -506,3 +506,632 @@ footer{
         float: left;
         width: 100px;
     }
+@media(max-width:780px){
+    header{
+        max-width: px;
+    }
+.logo{
+    width: px;
+    transform: translateY(40px);
+}
+.se{
+    transform: translateX(300px);
+    font-size: 35px;
+    
+    transform: translateX(px);
+}
+.se li{
+    padding-left: 15px;
+    transform: translateX(px);
+}
+.se ul{
+    width: 1400px;
+}
+.main-img{
+    background-image:url(https://peasmile2525.com/wp-content/themes/peasmile/assets/img/mv.jpg) ;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 2100px;
+}
+.main-top{
+    padding-bottom: 50px;
+}
+.main-top img{
+    width: 500px;
+    height: 500px;
+    margin-right: 20px;
+    
+}
+.main-1-img{
+    width: px;
+    padding-left: px;
+    margin-bottom: 300px;
+    height: px;
+}
+.main-1{
+ margin-right: px;
+ 
+}
+.me h3{
+    transform: translateY(-50px);
+    font-size: 90px;
+    margin-left: 60px;
+    text-shadow: 3px 3px 10px rgba(0,0,0,0.7);
+}
+.right{
+    transform: translateY(px);
+}
+.right-title h2{
+    width: 1200px;
+    font-size: 60px;
+}
+.right p{
+    font-size: 40px;
+    width: 1100px;
+    min-height: vh;
+    transform: translateY(px);
+}
+.main-2{
+    margin-top: 50px;
+    width: 2000px;
+    transform: translateX(50px);
+    transform: translateY(px);
+}
+.main-2 h2{
+font-size: 60px;
+}
+.main-2 span{
+font-size: 40px;
+}
+.main-2-box{
+    padding-left: px;
+}
+.main-2-img{
+    width: px;
+}
+.main-2-item{
+    margin-left: 430px;
+}
+.main-2-item-2{
+    margin-left: 330px;
+    padding-right: px;
+}
+.main-2-item p{
+    font-size: px;
+}
+.main-2-item-2 p{
+    font-size: px;
+    width: px;
+}
+.bot{
+    font-size: 30px;
+    width: 180px;
+    transform: translateX(180px);
+}
+.main-2 a{
+    padding-left: px;
+    
+}
+.main3-1-1{
+    transform: translateX(120px);
+}
+.main3-title{
+ transform: translateX(520px);
+ padding-bottom: 20px;
+}
+.main3-title h2{
+    margin-top: px;
+    font-size: 60px;
+    
+}
+.main3-title span{
+    transform: translateY(30px);
+    font-size: 40px;
+}
+.main3{
+    width: 1500px;
+    margin-left: 150px;
+    transform: translateY(px);
+}
+.main3-1{
+    height: px;
+    transform: translateY(px);
+    margin-top: px;
+}
+.main3-me{
+    width: 400px;
+}
+.main3-me span{
+    font-size: 30px;
+}
+.main3-me p{
+    font-size: 25px;
+}
+.main3-img{
+    width: px;
+}
+.bot3{
+    transform: translateX(110px);
+    font-size: 30px;
+    width: 180px;
+}
+.main4{
+    width: 1800px;
+}
+.main4 h2{
+font-size: 60px;
+}
+.main4 p{
+font-size: 40px;
+transform: translateY(20px);
+}
+.bot4{
+    transform: translateX(20px);
+}
+.news{
+
+}
+.news p{
+
+}
+.news h4{
+font-size: 30px;
+width: 270px;
+height: 50px;
+transform: translateY(15px);
+}
+.news h5{
+font-size: 30px;
+}
+.news-1{
+    border-bottom: 3px dotted gray;
+}
+.main5{
+    width: 1900px;
+    margin-left: 70px;
+}
+.bot4{
+    width: 800px;
+    padding-right: px;
+    transform: translateX(150px);
+    display: flex;
+    padding-bottom: 50px;
+}
+.bot4 a{
+    font-size: 30px;
+    
+}
+.main5{
+transform: translateX(30px);
+}
+.main5 h2{
+font-size: 60px;
+}
+.main5 span{
+font-size: 40px;
+}
+.left{
+    transform: translateX(20px);
+}
+.left h3{
+font-size: 35px;
+}
+.left h5{
+    font-size: 35px;
+}
+.left p{
+    font-size: 35px;
+}
+.left-hi th{
+font-size: 30px;
+}
+.left-hi td{
+font-size: 30px;
+}
+.left2{
+width: 680px;
+height: 200px;
+margin-left: 0px;
+}
+
+.left-me p{
+font-size: 35px;
+width: 500px;
+transform: translateY(-30px);
+margin-right:px;
+}
+.left-me span{
+font-size: 60px;
+width: px;
+transform: translateY(px);
+-bottom: 0px;
+}
+.left-img1{
+padding-top: 28px;
+transform: translateX(220px);
+}
+.left-img2{
+    padding-top: 28px;
+    transform: translateX(220px);
+}
+.left-img3{
+    padding-top: 28px;
+    transform: translateX(-290px);
+}
+.right iframe{
+    height: 1200px;
+    width: 830px;
+    margin-left: 100px;
+}
+.right{
+    width: 1000px;
+}
+.footer{
+    width: 1800px;
+}
+.footer img{
+    transform: translateY(20px);
+}
+.se-1 {
+font-size: 25px;
+margin-left: 250px;
+width: 500px;
+}
+.se-1 ul{
+    width: 1100px;
+}
+.se-1 span{
+
+}
+.p{
+    width: 800px;
+    font-size: 30px;
+    transform: translateX(180px);
+}
+.sns1-1{
+    width: 100px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:420px){
+    html{
+        
+    }
+    header{
+       
+    }
+    .logo{
+        
+    }
+    .se{
+        width:px;
+        transform: translateX(-50px);
+       
+
+    }
+    .se li{
+        font-size: 30px;
+    }
+    .se ul{
+        transform: translateX(120px);
+        font-size: px;
+        width: 1200px;
+        
+    }
+    .main-img{
+        background-image:url(https://peasmile2525.com/wp-content/themes/peasmile/assets/img/mv.jpg) ;
+        min-height: 120vh;
+        background-size: cover;
+        background-position: center top;
+        background-repeat: no-repeat;
+        position: relative;
+        width:1700px;
+        
+    }
+    .main-top{
+        padding-bottom: px;
+    }
+    .main-top img{
+        width: px;
+        height: px;
+        margin-right: px;
+        background-image: url();
+    }
+    .right{
+        margin-top: 650px;
+        width: 50%;
+    }
+    .main-1-img{
+        background-image: url();
+        width:500px;
+        margin-bottom: px;
+        position: relative;
+        padding-left: 390px;
+    }
+    .left p{
+        
+    }
+    .left img{
+        background-image: url();
+        width: px;
+        
+    }
+    .me h3{
+        transform: translateY(px);
+        font-size: 110px;
+        margin-left: px;
+        text-shadow: px 3px 10px rgba(0,0,0,0.7);
+    }
+    .right{
+    position: absolute;
+    }
+    .right h2{
+        width: 1450px;
+        font-size: 120px;
+    }
+    .right p{
+        font-size: 60px;
+        width: 1500px;
+        min-height: vh;
+        transform: translateY(px);
+    }
+    .sns{
+        display: none;
+    }
+    .main-2{
+        margin-top: px;
+        width: 1500px;
+        transform: translateY(1100px);
+        height: px;
+        margin-left: 80px;
+    }
+    .main-2 h2{
+    font-size: 95px;
+    }
+    .main-2 span{
+    font-size: 60px;
+    }
+    .main-2-box{
+        padding-left: px;
+    }
+    .main-2-img{
+        width: px;
+    }
+    .main-2-item li{
+        transform: translateX(-260px);
+        width: px;
+    }
+    .main-2-item p{
+        font-size: 30px;
+    }
+    .main-2-item-2 li{
+        transform: translateX(-260px);
+    }
+    .main-2-item-2 p{
+        font-size: 30px;
+    }
+    .bot{
+        font-size: 50px;
+        width: 300px;
+        transform: translateX(-100px);
+    }
+    .main3-1-1{
+        transform: translateY(1100px);
+        width:px;
+        margin-right: px;
+    }
+    .main3-title{
+     transform: translateX(630px);
+     padding-bottom: px;
+
+    }
+    .main3-title h2{
+        margin-top: px;
+        font-size: 95px;
+        
+    }
+    .main3-title span{
+        transform: translateY(px);
+    font-size: 60px;
+    }
+    .main3-box{
+        width: px;
+        transform: translateX(-75px);
+    }
+    .main3-me{
+        width: px;
+    }
+    .main3-me span{
+    font-size: 50px;
+    }
+    .main3-me p{
+    font-size: 35px;
+    }
+    .main3-me a{
+    font-size: 30px;
+    }
+    .bot2{
+        width: 150px;
+        transform: translateX(-35px);
+    }
+    .bot3{
+        transform: translateX(-20px);
+        font-size: 50px;
+        width: 298px;
+    }
+    .main4{
+        width:1500px;
+        transform: translateY(1100px);
+    }
+    .main4 h2{
+    font-size: px;
+    }
+    .main4 p{
+    font-size: px;
+    transform: translateY(px);
+    }
+.bot4{
+    transform: translateY(550px);
+}
+    .news{
+    
+    }
+    .news p{
+    
+    }
+    .news h4{
+    font-size: px;
+    width: px;
+    height: px;
+    transform: translateY(px);
+    }
+    .news h5{
+    font-size: px;
+    }
+    .news-1{
+        border-bottom: px dotted gray;
+    }
+    .main5{
+        width: px;
+        margin-left: px;
+        transform: translateY(1100px);
+    }
+    .bot4{
+        width: 1000px;
+        padding-right: px;
+        transform: translateX(px);
+        display: flex;
+        padding-bottom: px;
+    }
+    .bot4 a{
+        font-size: 45px;
+        
+    }
+    .main5{
+    width: 1500px;
+    transform: translateX(20px);
+    }
+    .main5-title{
+        
+    }
+    .kami{
+        
+    }
+    .main5 h2{
+    font-size: 95px;
+    }
+    .main5 span{
+    font-size: 60px;
+    }
+    .left h3{
+    font-size: 80px;
+    width: 1200px;
+    }
+    .left{
+        transform: translateX(70px);
+    }
+    .left h5{
+        font-size: 80px;
+    }
+    .left p{
+        font-size: 80px;
+    }
+    .left-hi th{
+    font-size: 70px;
+    }
+    .left-hi td{
+    font-size: 70px;
+    }
+    .left2{
+    width: 1130px;
+    height: 530px;
+    }
+    
+    .left-me p{
+    font-size: 80px;
+    width: px;
+    transform: translateX(px);
+    margin-left: 120px;
+    }
+    .left-me span{
+    font-size: 80px;
+    width: px;
+    transform: translateX(px);
+    margin-left: 120px;
+    }
+    .left-img1{
+    padding-top: 300px;
+    transform: translateX(400px);
+    }
+    .left-img2{
+        padding-top: 300px;
+        transform: translateX(400px);
+    }
+    .left-img3{
+        padding-top: 300px;
+        transform: translateX(px);
+        margin-left: 40px;
+    }
+    .right iframe{
+        
+        height: 1500px;
+        width: 1500px;
+        margin-top: 1900px;
+        transform: translateX(-130px);
+    }
+    .footer{
+        
+        transform: translateY(1600px);
+        width: 1200px;
+    }
+    .footer img{
+        transform: translateY(px);
+    }
+    .diplay{
+        width: px;
+    }
+    .se-1 {
+    font-size: px;
+    margin-right: px;
+    transform: translateX(-250px);
+    
+    }
+    .se-1 ul{
+        width: px;
+        transform: translateX(50px);
+    }
+    .se-1 li{
+        font-size:px ;
+        width: px;
+        margin-right: px;
+    }
+    .se-1 span{
+     width: px;
+    }
+    .p{
+        display: none;
+        width: px;
+        font-size: px;
+        transform: translateY(1000px);
+        margin-right: px;
+    }
+}
