@@ -509,14 +509,19 @@ footer{
 @media(max-width:780px){
     header{
         max-width: px;
+        display: flex;
+        flex-direction: column;
     }
 .logo{
     width: px;
     transform: translateY(40px);
 }
+.logo img{
+    width: 700px; height: 200px;
+}
 .se{
-    transform: translateX(300px);
-    font-size: 35px;
+    transform: translateX(100px);
+    font-size: 50px;
     
     transform: translateX(px);
 }
@@ -525,7 +530,7 @@ footer{
     transform: translateX(px);
 }
 .se ul{
-    width: 1400px;
+    width: 1850px;
 }
 .main-img{
     background-image:url(https://peasmile2525.com/wp-content/themes/peasmile/assets/img/mv.jpg) ;
@@ -543,7 +548,7 @@ footer{
     width: 500px;
     height: 500px;
     margin-right: 20px;
-    
+
 }
 .main-1-img{
     width: px;
@@ -553,11 +558,11 @@ footer{
 }
 .main-1{
  margin-right: px;
- 
+
 }
 .me h3{
     transform: translateY(-50px);
-    font-size: 90px;
+    font-size: 110px;
     margin-left: 60px;
     text-shadow: 3px 3px 10px rgba(0,0,0,0.7);
 }
@@ -566,13 +571,14 @@ footer{
 }
 .right-title h2{
     width: 1200px;
-    font-size: 60px;
+    font-size: 90px;
 }
 .right p{
-    font-size: 40px;
-    width: 1100px;
+    font-size: 50px;
+    width: 1050px;
     min-height: vh;
     transform: translateY(px);
+    font-weight: 600;
 }
 .main-2{
     margin-top: 50px;
@@ -581,10 +587,10 @@ footer{
     transform: translateY(px);
 }
 .main-2 h2{
-font-size: 60px;
+font-size: 100px;
 }
 .main-2 span{
-font-size: 40px;
+font-size: 80px;
 }
 .main-2-box{
     padding-left: px;
@@ -600,20 +606,22 @@ font-size: 40px;
     padding-right: px;
 }
 .main-2-item p{
-    font-size: px;
+    font-size: 20px;
+    font-weight: 700;
 }
 .main-2-item-2 p{
-    font-size: px;
+    font-size: 20px;
+    font-weight: 700;
     width: px;
 }
 .bot{
-    font-size: 30px;
-    width: 180px;
-    transform: translateX(180px);
+    font-size: 50px;
+    width: 300px;
+    transform: translateX(120px);
 }
 .main-2 a{
     padding-left: px;
-    
+
 }
 .main3-1-1{
     transform: translateX(120px);
@@ -624,17 +632,27 @@ font-size: 40px;
 }
 .main3-title h2{
     margin-top: px;
-    font-size: 60px;
-    
+    font-size: 100px;
+
 }
 .main3-title span{
     transform: translateY(30px);
-    font-size: 40px;
+    font-size: 80px;
 }
 .main3{
-    width: 1500px;
-    margin-left: 150px;
-    transform: translateY(px);
+    width: 0px;
+    margin-left: px;
+    transform: translateX(-280px);
+}
+
+.bot2{
+    width: 300px;
+    height: 100px;
+    font-size: 55px;
+    font-weight: 600;
+}
+.bot2 a{
+    font-size: 50px;
 }
 .main3-1{
     height: px;
@@ -642,31 +660,35 @@ font-size: 40px;
     margin-top: px;
 }
 .main3-me{
-    width: 400px;
+    width: 600px;
 }
 .main3-me span{
-    font-size: 30px;
+    font-size: 60px;
 }
 .main3-me p{
-    font-size: 25px;
+    font-size: 40px;
+    font-weight: 600;
 }
-.main3-img{
-    width: px;
+.main3-img img{
+    width: 600px;
+    height: 450px;
 }
+
 .bot3{
-    transform: translateX(110px);
-    font-size: 30px;
-    width: 180px;
+    transform: translateX(90px);
+    font-size: 50px;
+    width: 250px;
+    
 }
 .main4{
     width: 1800px;
 }
 .main4 h2{
-font-size: 60px;
+font-size: 100px;
 }
 .main4 p{
-font-size: 40px;
-transform: translateY(20px);
+font-size: 80px;
+transform: translateY(50px);
 }
 .bot4{
     transform: translateX(20px);
@@ -678,93 +700,111 @@ transform: translateY(20px);
 
 }
 .news h4{
-font-size: 30px;
-width: 270px;
-height: 50px;
+font-size: 50px;
+width: 800px;
+height: 100px;
 transform: translateY(15px);
+padding-top: 20px;
+padding-left: 50px;
 }
 .news h5{
-font-size: 30px;
+font-size: 50px;
 }
 .news-1{
-    border-bottom: 3px dotted gray;
+    border-bottom: 5px dotted gray;
 }
 .main5{
-    width: 1900px;
-    margin-left: 70px;
+   
+    
 }
 .bot4{
-    width: 800px;
+    width: 1100px;
     padding-right: px;
-    transform: translateX(150px);
+    transform: translateX(100px);
     display: flex;
     padding-bottom: 50px;
 }
 .bot4 a{
-    font-size: 30px;
+    font-size: 70px;
     
+
 }
 .main5{
 transform: translateX(30px);
+height: 2200px;
 }
 .main5 h2{
-font-size: 60px;
+font-size: 100px;
 }
 .main5 span{
-font-size: 40px;
+font-size: 80px;
 }
 .left{
     transform: translateX(20px);
 }
 .left h3{
-font-size: 35px;
+font-size: 50px;
 }
 .left h5{
-    font-size: 35px;
+    font-size: 50px;
 }
 .left p{
-    font-size: 35px;
+    font-size: 50px;
 }
 .left-hi th{
-font-size: 30px;
+font-size: 40px;
 }
 .left-hi td{
-font-size: 30px;
+font-size: 40px;
 }
 .left2{
-width: 680px;
-height: 200px;
+width: 770px;
+height: 450px;
 margin-left: 0px;
 }
 
 .left-me p{
-font-size: 35px;
-width: 500px;
-transform: translateY(-30px);
+font-size: 60px;
+width: 700px;
+transform: translateX(-90px);
 margin-right:px;
 }
 .left-me span{
-font-size: 60px;
-width: px;
-transform: translateY(px);
--bottom: 0px;
+font-size: 80px;
+transform: translateX(-190px);
+padding-top: 50px;
+}
+.left-me{
+    transform: translateX(-100px);
 }
 .left-img1{
-padding-top: 28px;
+padding-top: 140px;
 transform: translateX(220px);
 }
 .left-img2{
-    padding-top: 28px;
+    padding-top: 140px;
     transform: translateX(220px);
 }
 .left-img3{
-    padding-top: 28px;
-    transform: translateX(-290px);
+    padding-top: 140px;
+    transform: translateX(-490px);
+}
+.left-img1 img{
+    width: 100px;
+    height: 100px;
+}
+.left-img2 img{
+    width: 100px;
+    height: 100px;
+}
+.left-img3 img{
+    width: 100px;
+    height: 100px;
 }
 .right iframe{
-    height: 1200px;
-    width: 830px;
-    margin-left: 100px;
+    height: 1600px;
+    width: 850px;
+    margin-left: 10px;
 }
 .right{
     width: 1000px;
@@ -791,9 +831,48 @@ width: 500px;
     font-size: 30px;
     transform: translateX(180px);
 }
-.sns1-1{
+.sns{
+    transform: translateY(700px);
+}
+.sns1-1 img{
+    width: 200px;
+    height: 200px;
+}
+.sns1-2 img{
+    width: 200px;
+    height: 200px;
+}
+.sns-box img{
+    transform: translateX(20px);
     width: 100px;
+    height: 500px;
 }
+footer{
+    transform: translateY(00px);
+    display: flex;
+    flex-direction: column;
+   }
+   .display{
+    display: flex;
+    flex-direction: column;
+       
+   }
+   .logo-1 img{
+       width: 700px;
+       height: 200px;
+   }
+   .se-1{
+    
+    transform: translateX(-300px);
+}
+.se-1 ul{
+    width: 1900px;
+ font-size: 50px;
+}
+.p{
+    transform: translateX(110px);
+    width: 800px;
+    font-size: 30px;
 }
 
 
@@ -811,31 +890,30 @@ width: 500px;
 
 
 
-
-@media screen and (max-width:420px){
+@media (max-width:420px){
     html{
-        
+
     }
     header{
-       
+
     }
     .logo{
-        
+
     }
     .se{
-        width:px;
+        
         transform: translateX(-50px);
-       
+
 
     }
     .se li{
-        font-size: 30px;
+        font-size: 40px;
     }
     .se ul{
         transform: translateX(120px);
         font-size: px;
-        width: 1200px;
-        
+        width: 1500px;
+
     }
     .main-img{
         background-image:url(https://peasmile2525.com/wp-content/themes/peasmile/assets/img/mv.jpg) ;
@@ -845,7 +923,7 @@ width: 500px;
         background-repeat: no-repeat;
         position: relative;
         width:1700px;
-        
+
     }
     .main-top{
         padding-bottom: px;
@@ -868,12 +946,12 @@ width: 500px;
         padding-left: 390px;
     }
     .left p{
-        
+
     }
     .left img{
         background-image: url();
         width: px;
-        
+
     }
     .me h3{
         transform: translateY(px);
@@ -882,6 +960,7 @@ width: 500px;
         text-shadow: px 3px 10px rgba(0,0,0,0.7);
     }
     .right{
+        margin-left: 60px;
     position: absolute;
     }
     .right h2{
@@ -902,7 +981,7 @@ width: 500px;
         width: 1500px;
         transform: translateY(1100px);
         height: px;
-        margin-left: 80px;
+        margin-left: 120px;
     }
     .main-2 h2{
     font-size: 95px;
@@ -934,20 +1013,25 @@ width: 500px;
         width: 300px;
         transform: translateX(-100px);
     }
+    .main3{
+        display: flex;
+        flex-direction: column;
+        margin-left: 320px;
+    }
     .main3-1-1{
         transform: translateY(1100px);
         width:px;
         margin-right: px;
     }
     .main3-title{
-     transform: translateX(630px);
+     transform: translateX(670px);
      padding-bottom: px;
 
     }
     .main3-title h2{
         margin-top: px;
         font-size: 95px;
-        
+
     }
     .main3-title span{
         transform: translateY(px);
@@ -955,26 +1039,35 @@ width: 500px;
     }
     .main3-box{
         width: px;
-        transform: translateX(-75px);
+        transform: translateX(120px);
+        padding-bottom: 50px;
+    }
+    .main3-img img{
+    width: 1300px;
+    height: 800px;
     }
     .main3-me{
-        width: px;
+        width: 1300px;
+       
     }
     .main3-me span{
-    font-size: 50px;
+    font-size: 60px;
     }
     .main3-me p{
-    font-size: 35px;
+    font-size: 45px;
     }
     .main3-me a{
-    font-size: 30px;
+    font-size: 45px;
     }
     .bot2{
-        width: 150px;
-        transform: translateX(-35px);
+        width: 350px;
+        transform: translateX(280px);
+        padding-top: 50px;
+        padding-left: 200px;
+        font-size: 30px;
     }
     .bot3{
-        transform: translateX(-20px);
+        transform: translateX(30px);
         font-size: 50px;
         width: 298px;
     }
@@ -991,12 +1084,13 @@ width: 500px;
     }
 .bot4{
     transform: translateY(550px);
+    margin-bottom: 100px;
 }
     .news{
-    
+
     }
     .news p{
-    
+
     }
     .news h4{
     font-size: px;
@@ -1024,17 +1118,19 @@ width: 500px;
     }
     .bot4 a{
         font-size: 45px;
-        
+
     }
     .main5{
     width: 1500px;
-    transform: translateX(20px);
+    transform: translateY(1000px);
+    margin-left: 110px;
+    height: 4500px;
     }
     .main5-title{
-        
+
     }
     .kami{
-        
+
     }
     .main5 h2{
     font-size: 95px;
@@ -1065,7 +1161,7 @@ width: 500px;
     width: 1130px;
     height: 530px;
     }
-    
+
     .left-me p{
     font-size: 80px;
     width: px;
@@ -1092,15 +1188,14 @@ width: 500px;
         margin-left: 40px;
     }
     .right iframe{
-        
+
         height: 1500px;
-        width: 1500px;
+        width: 1300px;
         margin-top: 1900px;
-        transform: translateX(-130px);
+        transform: translateX(60px);
     }
     .footer{
-        
-        transform: translateY(1600px);
+        transform: translateY(1000px);
         width: 1200px;
     }
     .footer img{
@@ -1110,17 +1205,17 @@ width: 500px;
         width: px;
     }
     .se-1 {
-    font-size: px;
+    font-size: 20px;
     margin-right: px;
-    transform: translateX(-250px);
-    
+    transform: translateX(-300px);
+
     }
     .se-1 ul{
-        width: px;
-        transform: translateX(50px);
+        width: 1550px;
+        transform: translateX(0px);
     }
     .se-1 li{
-        font-size:px ;
+        font-size:40px ;
         width: px;
         margin-right: px;
     }
@@ -1134,4 +1229,5 @@ width: 500px;
         transform: translateY(1000px);
         margin-right: px;
     }
+}
 }
