@@ -520,7 +520,7 @@ footer{
     width: 700px; height: 200px;
 }
 .se{
-    transform: translateX(100px);
+    transform: translateX(200px);
     font-size: 50px;
     
     transform: translateX(px);
@@ -539,7 +539,7 @@ footer{
     background-position: center top;
     background-repeat: no-repeat;
     position: relative;
-    width: 2100px;
+    width: 2350px;
 }
 .main-top{
     padding-bottom: 50px;
@@ -583,7 +583,7 @@ footer{
 .main-2{
     margin-top: 50px;
     width: 2000px;
-    transform: translateX(50px);
+    transform: translateX(170px);
     transform: translateY(px);
 }
 .main-2 h2{
@@ -624,7 +624,7 @@ font-size: 80px;
 
 }
 .main3-1-1{
-    transform: translateX(120px);
+    transform: translateX(250px);
 }
 .main3-title{
  transform: translateX(520px);
@@ -642,7 +642,7 @@ font-size: 80px;
 .main3{
     width: 0px;
     margin-left: px;
-    transform: translateX(-280px);
+    transform: translateX(-140px);
 }
 
 .bot2{
@@ -730,7 +730,8 @@ font-size: 50px;
 
 }
 .main5{
-transform: translateX(30px);
+    width: 2150px;
+transform: translateX(100px);
 height: 2200px;
 }
 .main5 h2{
@@ -740,7 +741,7 @@ font-size: 100px;
 font-size: 80px;
 }
 .left{
-    transform: translateX(20px);
+    transform: translateX(70px);
 }
 .left h3{
 font-size: 50px;
@@ -808,6 +809,7 @@ transform: translateX(220px);
 }
 .right{
     width: 1000px;
+    transform: translateX(150px);
 }
 .footer{
     width: 1800px;
@@ -914,6 +916,9 @@ footer{
         font-size: px;
         width: 1500px;
 
+    }
+    .main-1{
+        transform: translateX(-140px);
     }
     .main-img{
         background-image:url(https://peasmile2525.com/wp-content/themes/peasmile/assets/img/mv.jpg) ;
@@ -1192,7 +1197,7 @@ footer{
         height: 1500px;
         width: 1300px;
         margin-top: 1900px;
-        transform: translateX(60px);
+        transform: translateX(-120px);
     }
     .footer{
         transform: translateY(1000px);
@@ -1212,7 +1217,7 @@ footer{
     }
     .se-1 ul{
         width: 1550px;
-        transform: translateX(0px);
+        transform: translateX(-220px);
     }
     .se-1 li{
         font-size:40px ;
@@ -1223,10 +1228,10 @@ footer{
      width: px;
     }
     .p{
-        display: none;
-        width: px;
-        font-size: px;
-        transform: translateY(1000px);
+        padding-top: 1000px;
+        width: 1100px;
+        font-size: 40px;
+        transform: translateX(-600px);
         margin-right: px;
     }
 }
