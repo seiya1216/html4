@@ -1021,7 +1021,7 @@ footer{
     .main3{
         display: flex;
         flex-direction: column;
-        margin-left: 320px;
+       transform: translateX(40px);
     }
     .main3-1-1{
         transform: translateY(1100px);
